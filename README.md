@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/aizan-sagheer-46074b11a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" target="_blank">
+  <a href="https://stackoverflow.com/users/15968808/aizan-sagheer" target="_blank">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
 </p>
